@@ -3,8 +3,7 @@
 
 declare const Deno: any;
 
-const PSK = "
-  Iqyb6TW6zW3369yolGZb4FygEK1ZwqKqVesLUHwbSwU=";
+const PSK = "Iqyb6TW6zW3369yolGZb4FygEK1ZwqKqVesLUHwbSwU=";
 
 const STRIP_HEADERS = new Set([
   "host",
